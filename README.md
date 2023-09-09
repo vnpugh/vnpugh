@@ -17,6 +17,8 @@
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vnpugh)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vnpugh&layout=compact)](https://github.com/vnpugh)
+
 ---
 
 <h3 align="left">Languages and Tools</h3>
