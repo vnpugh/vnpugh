@@ -1,8 +1,17 @@
 <h1 align="center">Hi 👋, I'm Velvet!</h1>
-<h3 align="center">A Solution Architect / Full-Stack Software Engineer</h3>
+<h3 align="center">A Full-Stack Software Engineer</h3>
 
 ---
+ <h3> :keyboard: About Me</h3>
+<ul>
+    <li>Full-Stack Engineer with experience in Technical Project Management:bookmark_tabs:</li>
+    <li>Experience in Manual and Automation Testing:star2:</li>
+    <li>Love to Travel:earth_africa::flight_departure:</li>
+    <li>Pizza:pizza:and Rotti:flatbread:lover!</li>
+</ul>
 
+
+ 
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vnpugh)](https://git.io/streak-stats)
 
