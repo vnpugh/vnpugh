@@ -1,3 +1,6 @@
+![Real Estate Agent Banner (1)](https://github.com/vnpugh/vnpugh/assets/48695329/db342aee-c062-484c-91e7-5c316b6d9964)
+
+
 <h1 align="center">Hi 👋, I'm Velvet!</h1>
 <h3 align="center">A Full-Stack Software Engineer and Movie Buff:clapper:</h3>
 
