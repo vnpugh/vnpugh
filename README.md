@@ -2,7 +2,6 @@
 
 
 <h1 align="center">Hi 👋, I'm Velvet!</h1>
-<h3 align="center">I'm currently recovering from Java:crying_cat_face::wine_glass:... I'm also a Movie Buff:clapper:</h3>
 
 
 ---
